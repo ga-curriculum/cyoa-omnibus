@@ -18,3 +18,6 @@ The field of data science contains many topics that don't fit our typical 2-hour
 - [Tensorboard]() (18min Recording)
     - Tensorboard is a model monitoring software that integrates with Tensorflow in the form of a callback. In this lesson, we learn how to create tensorboards to monitor model progress both from a server as well as within a Jupyter notebook.
     - **Topics Included:** Tensorboard, callbacks
+- [Algorithms and Data Structures]() (48min Recording)
+    - A very gentle overview of the concept of **algorithms and data structures**, a highly important topic for academic computer scientists that can often show up in coding interviews.
+    - **Topics Included:** algorithms, big O notation, data structures, arrays, linked lists
